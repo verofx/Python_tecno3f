@@ -2,7 +2,8 @@
 
 # Ejercicios de Python
 
-Este repositorio contiene una colección de ejercicios de programación en Python, organizados por clase. Cada ejercicio está diseñado para practicar y mejorar las habilidades en Python, abordando diferentes conceptos y técnicas de programación.
+Este repositorio contiene una colección de ejercicios de programación en Python, organizados por clase. Cada ejercicio está diseñado para practicar y mejorar las habilidades en Python, abordando diferentes conceptos y técnicas de programación.  
+EJERCICIOS EN BRANCH MASTER!!
 
 # Práctica
   * Ejercicios de práctica 1 => input, print, variables
